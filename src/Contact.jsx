@@ -23,7 +23,7 @@ const Contact = () => {
                     <div className="linkedin">
                         <img src="assets/images/linkedinlogo.png" />
                         <h4 style={{ textAlign: "center", color: "white", paddingTop: "1.6rem", fontFamily: 'Changa' }}>LINKED in</h4>
-                        <a target="_blank" href="https://www.linkedin.com/in/abdul-moiz-rashid-8119751a6/" style={{ textAlign: "center", color: "rgba(177, 173, 173, 0.5)", paddingTop: "1rem", textDecoration: "underline" }}>Connect With Me</a>
+                        <a target="_blank" href="https://www.linkedin.com/in/abdul-moiz-rashid/" style={{ textAlign: "center", color: "rgba(177, 173, 173, 0.5)", paddingTop: "1rem", textDecoration: "underline" }}>Connect With Me</a>
                     </div>
                 </div>
             </section>
