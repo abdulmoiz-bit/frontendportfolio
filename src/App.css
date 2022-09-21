@@ -335,7 +335,7 @@ html {
 
 .contactme {
   padding-top: 8rem;
-  padding-bottom: 5rem;
+  padding-bottom: 8rem;
   background-color: #181818;
   clip-path: polygon(0 0, 100% 15%, 100% 100%, 0% 100%);
 }
@@ -352,9 +352,9 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding-top: 4rem;
+  
   gap: 3rem;
-  padding: 0 1rem;
+  padding: 4rem 1rem 0;
 }
 
 
