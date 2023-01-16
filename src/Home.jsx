@@ -38,7 +38,7 @@ const Home = () => {
                                 <h1 style={{ fontFamily: 'Changa', color: 'white' }}>Frontend Engineer...</h1>
                             </div>
                             <div className='homebtns' style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
-                                <a target="_blank" href="https://drive.google.com/file/d/1_rdCmTIeqaFENavECS5qHqLHp7gSOTV5/view"
+                                <a target="_blank" href="https://app.luminpdf.com/viewer/63c57a49e0550cbe2bf912a4"
                                     style={{ textDecoration: 'none' }}>
                                     <button className='homebtn'>Resume</button> &nbsp; &nbsp;
                                 </a>
