@@ -28,38 +28,7 @@ const Portfolio = () => {
                             </div>
                         </div>
                     </article>
-
-                    <article className='testimonial two'>
-                        <div className='testimonialtext'>
-                            <h3 className='heading'> Admin Dashboard </h3>
-                            <p> The React Admin Dashboard has designed by Material UI
-                                contained beautiful icons, recharts, products and users list with images.</p>
-                            <div className='portfoliobtn'>
-                                <a target="_blank" href='https://reactjsadmindashboard.vercel.app/'>
-                                    <button className='btn'> View Demo </button> &nbsp; &nbsp;
-                                </a>
-                                <a target="_blank" href='https://github.com/abdulmoiz-bit/reactjsadmindashboard'>
-                                    <button className='btn'> Github </button>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-
-                    <article className='testimonial three'>
-                        <div className='testimonialtext'>
-                            <h3 className='heading'> Calculator </h3>
-                            <p>Addition, subtraction, multiplication, and division actions in this calculator using the useReducer hook. </p>
-                            <div className='portfoliobtn'>
-                                <a target="_blank" href='https://reactjscalculatorr.herokuapp.com/'>
-                                    <button className='btn'> View Demo </button> &nbsp; &nbsp;
-                                </a>
-                                <a target="_blank" href='https://github.com/abdulmoiz-bit/reactjscalculatorr'>
-                                    <button className='btn'> Github </button>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-
+                  
                     <article className='testimonial four grid-col-span-2'>
                         <div className='testimonialtext'>
                             <h3 className='heading'> Todo </h3>
@@ -85,22 +54,6 @@ const Portfolio = () => {
                                     <button className='btn'> View Demo </button> &nbsp; &nbsp;
                                 </a>
                                 <a target="_blank" href='https://github.com/abdulmoiz-bit/reactjstextutils'>
-                                    <button className='btn'> Github </button>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-                    <article className='testimonial five'>
-                        <div className='testimonialtext'>
-                            <h3 className='heading'> Expense Tracker </h3>
-                            <p>Expense Tracker shows add income amount with a plus and expense amount with a minus.
-                                Delete previous amounts with the help of useReducer and ContextAPI.
-                            </p>
-                            <div className='portfoliobtn'>
-                                <a target="_blank" href='https://reactjsexpensetracker.vercel.app/'>
-                                    <button className='btn'> View Demo </button> &nbsp; &nbsp;
-                                </a>
-                                <a target="_blank" href='https://github.com/abdulmoiz-bit/reactjsexpensetracker'>
                                     <button className='btn'> Github </button>
                                 </a>
                             </div>
