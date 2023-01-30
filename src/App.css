@@ -288,29 +288,15 @@ html {
 }
 
 .testimonial:nth-child(2) {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../public/assets/images/admindashboard.PNG');
-
-}
-
-.testimonial:nth-child(3) {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../public/assets/images/Capture5-min.PNG');
-
-}
-
-.testimonial:nth-child(4) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../public/assets/images/Capturetodo-min.PNG');
 
 }
 
-.testimonial:nth-child(5) {
+.testimonial:nth-child(3) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../public/assets/images/Capture4-min.PNG');
 
 }
 
-.testimonial:nth-child(6) {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../public/assets/images/Capture6-min.PNG');
-
-}
 
 @media screen and (max-width: 1200px) {
   .testimonialtext {

@@ -9,7 +9,6 @@ const Portfolio = () => {
                     My Portfolio
                 </h1>
                 <div className='grid'>
-
                     <article className='testimonial one'>
                         <div className='testimonialtext'>
                             <h3 className='heading'> Ecommerce Store </h3>
@@ -29,7 +28,7 @@ const Portfolio = () => {
                         </div>
                     </article>
                   
-                    <article className='testimonial four grid-col-span-2'>
+                    <article className='testimonial two'>
                         <div className='testimonialtext'>
                             <h3 className='heading'> Todo </h3>
                             <p> This is a basic todo app having create and delete function with local storage methods. </p>
@@ -44,7 +43,7 @@ const Portfolio = () => {
                         </div>
                     </article>
 
-                    <article className='testimonial five'>
+                    <article className='testimonial three'>
                         <div className='testimonialtext'>
                             <h3 className='heading'> TextUtils </h3>
                             <p> With this amazing TextUtils app, you can convert text into uppercase,
