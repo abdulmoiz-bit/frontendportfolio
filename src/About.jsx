@@ -11,7 +11,7 @@ const About = () => {
                     <p style={{ margin: '1rem 0rem' }}>
                     Hi, I am Abdul Moiz Rashid, I recently completed Software Engineering 
                     and I am a Frontend Engineer with React JS,
-                    I have alos worked as a freelance frontend developer.
+                    I have also worked as a freelance frontend developer.
                     </p>
                     <a target="_blank" href="https://www.linkedin.com/in/abdul-moiz-rashid/">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill='white' className="bi bi-linkedin" viewBox="0 0 16 16">
